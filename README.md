@@ -1,24 +1,24 @@
-- 👋 Hi, I’m @shoppingaaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 这是我的简介
+---
+## 关于学习
+基本掌握目前为止大学所学课程：C语言、C++、算法与数据结构等，学习上算得上是中规中矩。大一两学期分别获得学院二、三等奖学金。
 
-<!---
-shoppingaaa/shoppingaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# title
-[github官网](https://github.com/)<a id="jump_8"></a>
+不足：课外拓展较少，学习主动性还需提升。掌握的知识只是汪洋大海中的一滴水，对专业的兴趣一般。
+
+感兴趣的技术方向：软件开发，创作出一款属于自己的软件会让我很有成就感。
 
 ----
-| 姓名   | 年龄 |     工作 |
-| :----- | :--: | -------: |
-| 小可爱 |  18  | 吃可爱多 |
-| 小小勇敢 |  20  | 爬棵勇敢树 |
-| 小小小机智 |  22  | 看一本机智书 |
+## 关于生活
+我是一个比较文艺的人，喜欢分享生活，感受大自然。
 
-----
-| 学号  | 102101303 |
-| :----- | --------: |
-| 作业在这 | [作业链接](https://bbs.csdn.net/topics/617176123) |
+- 我的兴许爱好是做手工
+  - 折纸
+![为过年做装饰的花球](https://github.com/shoppingaaa/shoppingaaa/assets/143972767/6d1a5c36-3d11-4c56-928c-bc63844c9f86)
+  - 编织
+![为新家编织的中国结](https://github.com/shoppingaaa/shoppingaaa/assets/143972767/f520c582-c81f-49d3-8b0c-89361cc2da21)
+![还有其他各种手工品](https://github.com/shoppingaaa/shoppingaaa/assets/143972767/abad9265-c369-4b47-8920-635e940ba2e6)
+> 从我有记忆的时候就开始有做手工了，最开始学的折纸垃圾桶、千纸鹤，到后来对毛线、玉线等编织感兴趣，自己在网上找教程学习，不断丰富自己的经验。动手能力比较强，对立体图形也比较敏感。
+
+---
+## 关于未来
+大三打算去考教师资格证，毕业后应该会选择考研，父母都希望我考研，正在读考研英语。
